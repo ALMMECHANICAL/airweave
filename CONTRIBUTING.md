@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 6:15:13 am
+date modified: Monday, May 18th 2026, 3:56:42 pm
+---
+
 # Contributing to Airweave
 
 Thank you for your interest in contributing to Airweave! This document provides guidelines and instructions for contributing to the project.

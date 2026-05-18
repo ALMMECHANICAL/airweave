@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 6:15:13 am
+date modified: Monday, May 18th 2026, 3:56:33 pm
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
