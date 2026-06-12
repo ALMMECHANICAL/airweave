@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 6:15:13 am
+date modified: Thursday, May 21st 2026, 3:01:40 pm
+---
+
 # Airweave Analytics Module
 
 This module provides PostHog analytics integration for Airweave, enabling comprehensive tracking of user behavior, business metrics, and system performance.

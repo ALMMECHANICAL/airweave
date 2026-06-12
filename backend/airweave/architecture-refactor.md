@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 6:15:13 am
+date modified: Thursday, May 21st 2026, 3:03:15 pm
+---
+
 # Airweave Backend Architecture Refactor v0
 
 ## Executive Summary

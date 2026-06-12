@@ -1,3 +1,10 @@
+---
+aliases: []
+tags: []
+date created: Friday, April 24th 2026, 6:15:15 am
+date modified: Thursday, May 21st 2026, 3:05:32 pm
+---
+
 # Airweave Frontend
 
 ## Overview
